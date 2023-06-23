@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1096317210068",
+    "project_id": "app-phbs",
+    "storage_bucket": "app-phbs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096317210068:android:d5a5e9891892b9ed7d1a41",
+        "android_client_info": {
+          "package_name": "com.mycompany.aplikasipbhs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096317210068-pn6kom2j0sm8o8ggtrvlla3oov23r0f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfM5lDkToa0LlXw--Kmu9KV8OubxRDo2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096317210068-pn6kom2j0sm8o8ggtrvlla3oov23r0f8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096317210068-v11alat1kaifo18ivks819m9oqir55ni.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.aplikasipbhs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
